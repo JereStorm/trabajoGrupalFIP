@@ -1,7 +1,20 @@
+body{
+    background-color: rgb(200, 153, 243);
+
+}
+
 #titulo {
     color: tomato;
 }
 
 .texto {
     color: green
+}
+.tarjeta {
+    border: 2px solid rgb(17, 17, 17);
+    padding: 10px;
+    margin: 10px;
+    background-color: lightyellow;
+    display: inline-block;
+    text-align: center;
 }
